@@ -67,8 +67,3 @@ The DeLorean's "Hovering Phase" isn't actually flat — when thrust exactly equa
 The car keeps climbing at a constant speed. Real "Hover Mode" is secretly **Cruise Mode**;
 a true stationary hover needs the flight computer to trim thrust to ~99% of weight.
 
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
